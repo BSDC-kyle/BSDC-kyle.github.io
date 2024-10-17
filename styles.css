@@ -1,0 +1,13 @@
+h1 {
+  color: maroon;
+  background-color: aqua;
+  font-size: xx-large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bolder;
+  font-style: italic;
+  font-variant: normal;
+}
+
+body {
+  background-image: url("/images/framed\ glass\ door.webp");
+}
