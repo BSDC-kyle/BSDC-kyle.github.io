@@ -9,5 +9,35 @@ h1 {
 }
 
 body {
-  background-image: url("/images/framed\ glass\ door.webp");
+  background-image: url("/images/glass-window-small.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: maroon;
+  background-color: aqua;
+}
+
+h2 {
+  color: maroon;
+  background-color: aqua;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bolder;
+  font-style: oblique;
+}
+
+h3 {
+  color: maroon;
+  background-color: aqua;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h4 {
+  color: maroon;
+  background-color: aqua;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h5 {
+  color: maroon;
+  background-color: aqua;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
