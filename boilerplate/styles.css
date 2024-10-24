@@ -1,0 +1,13 @@
+body {
+  /* background-color: black; */
+  color: black;
+  border: solid 2px red;
+  height: 100%;
+  margin: 0px;
+}
+
+html {
+  /* background-color: black; */
+  border: solid 2px black;
+  height: 80%;
+}

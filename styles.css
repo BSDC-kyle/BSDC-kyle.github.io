@@ -1,32 +1,32 @@
 h1 {
-  color: maroon;
-  background-color: aqua;
+  color: darkorange;
   font-size: xx-large;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-weight: bolder;
   font-style: italic;
   font-variant: normal;
+  text-align: left;
 }
 
 body {
-  background-image: url("/images/glass-window-small.jpg");
+  background-image: url("/images/logo\ picture\ 1.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   color: maroon;
-  background-color: aqua;
 }
 
 h2 {
-  color: maroon;
-  background-color: aqua;
+  color: darkorange;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-weight: bolder;
   font-style: oblique;
+  text-align: right;
+  width: 500px;
 }
 
 h3 {
-  color: maroon;
-  background-color: aqua;
+  color: white;
+  background-color: black;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -40,4 +40,12 @@ h5 {
   color: maroon;
   background-color: aqua;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+table {
+  color: white;
+  background-color: black;
+  text-align: left;
+  width: 1000px;
+  font-size: x-large;
+  height: 20px;
 }
