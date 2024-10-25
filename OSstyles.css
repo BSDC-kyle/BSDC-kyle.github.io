@@ -1,0 +1,93 @@
+h1 {
+  color: darkorange;
+  font-size: xx-large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bolder;
+  font-style: italic;
+  font-variant: normal;
+  text-align: left;
+}
+
+body {
+  height: 100%;
+  margin: 0%;
+}
+
+h2 {
+  color: darkorange;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bolder;
+  font-style: oblique;
+  text-align: right;
+  width: 500px;
+}
+
+h3 {
+  color: white;
+  background-color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h4 {
+  color: maroon;
+  background-color: aqua;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h5 {
+  color: maroon;
+  background-color: aqua;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+table {
+  color: white;
+  background-color: black;
+  text-align: left;
+  width: 1000px;
+  font-size: x-large;
+  height: 20px;
+}
+.A {
+  height: 35px;
+  margin: 0px;
+  text-size-adjust: auto;
+  font-size: large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  size-adjust: auto;
+}
+.B {
+  height: 35px;
+  margin: 0px;
+  text-size-adjust: auto;
+  font-size: large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  size-adjust: auto;
+}
+.C {
+  height: 35px;
+  margin: 0px;
+  text-size-adjust: auto;
+  font-size: large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  size-adjust: auto;
+}
+.D {
+  height: 35px;
+  margin: 0px;
+  text-size-adjust: auto;
+  font-size: large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  size-adjust: auto;
+}
+html {
+  height: 100%;
+}
+.OS1 {
+  font-size: 100px;
+  color: black;
+  font-weight: bolder;
+}
