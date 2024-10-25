@@ -13,6 +13,8 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   color: maroon;
+  height: 100%;
+  margin: 0%;
 }
 
 h2 {
@@ -48,4 +50,43 @@ table {
   width: 1000px;
   font-size: x-large;
   height: 20px;
+}
+.A {
+  height: 35px;
+  margin: 0px;
+  text-size-adjust: auto;
+  font-size: large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  size-adjust: auto;
+}
+.B {
+  height: 35px;
+  margin: 0px;
+  text-size-adjust: auto;
+  font-size: large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  size-adjust: auto;
+}
+.C {
+  height: 35px;
+  margin: 0px;
+  text-size-adjust: auto;
+  font-size: large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  size-adjust: auto;
+}
+.D {
+  height: 35px;
+  margin: 0px;
+  text-size-adjust: auto;
+  font-size: large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  size-adjust: auto;
+}
+html {
+  height: 100%;
 }
