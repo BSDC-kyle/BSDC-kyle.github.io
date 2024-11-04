@@ -85,9 +85,15 @@ table {
 }
 html {
   height: 100%;
+  background-color: black;
 }
 .AU1 {
   font-size: 100px;
-  color: black;
+  color: rgb(255, 255, 255);
   font-weight: bolder;
+}
+.ZZ {
+  color: orange;
+  height: fit-content;
+  text-align: right;
 }
