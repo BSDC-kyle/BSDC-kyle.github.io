@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: red;
+}
+
+html,
+body {
+  border-color: red;
+  height: 100%;
+}
+
+h1 {
+  color: green;
+}
+
+.titles {
+  color: purple;
+}
+
+.greenbackground {
+  background-color: green;
+  color: white;
+}
+.page {
+  height: 100%;
+}
