@@ -14,15 +14,19 @@ h1 {
   color: green;
 }
 
-.titles {
-  color: purple;
-}
-
-.greenbackground {
-  background-color: green;
-  color: white;
+.title {
+  color: yellow;
+  text-decoration-color: yellow;
+  text-align: left;
+  font-size: 100px;
+  font-weight: 1000;
 }
 .page {
   height: 100%;
   border: red 1px solid;
+}
+.slogan {
+  color: lightblue;
+  text-align: right;
+  font-size: 25px;
 }
